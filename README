@@ -7,9 +7,9 @@ API documentation can be found in the doc directory, under index.html.
 
 A demo script, example.php has been included to demonstrate some of the potential uses for this library.
 
-ColorChip is released under the GPL license, which can be read under LICENSE.txt.
+ColorChip is released under the GPL license, which can be read under LICENSE.
 
 Send bug reports/feature requests to:
-Andy Chase <achase@greyledge.net>
+Andy Chase <andychase@gmail.com>
 
 No guarantees, but I'll try to fix stuff if it's not working correctly.
