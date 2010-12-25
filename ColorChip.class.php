@@ -201,19 +201,6 @@ class ColorChip{
     $this->_updateAllColorInfo(CC_HSV);
 
   }
-
-  /** Returns a new ColorChip object with identical h,s,v,r,g, b and 
-   *hex properties.
-   *@return ColorChip 
-   *@access public
-   */
-  function clone(){
-    $newColor = new ColorChip($this->r, $this->g, $this->b, CC_RGB);
-    return $newColor;
-  }
-
-
-
   /** Returns a new ColorChip object containing the complimentary color 
    *to the current
    *@return ColorChip The complimentary color
